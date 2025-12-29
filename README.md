@@ -50,4 +50,53 @@ It transforms raw sales data into **actionable business insights** for better de
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
+
+# 🌍 Global Chocolate Factory Sales Dashboard
+
+A Power BI dashboard showcasing sales insights for a global chocolate factory. Explore trends, performance metrics, and data-driven insights with interactive visuals.
+
+---
+
+## 🚀 How to Use This Project
+1. Download the `.pbix` file  
+2. Open it using **Power BI Desktop**  
+3. Explore insights using interactive visuals and filters
+
+---
+
+## 📊 Features
+- Interactive sales dashboard with visuals and KPIs
+- Product-wise, region-wise, and time-wise analysis
+- Trend analysis and performance metrics
+- Custom DAX measures for business insights
+
+---
+
+## 📈 Skills Demonstrated
+- Data Analysis & Interpretation  
+- Dashboard Design & Storytelling  
+- Business Intelligence Reporting  
+- Analytical & Problem-Solving Skills  
+- Power BI & DAX Expertise
+
+---
+
+## 👤 Author
+**Shivam Pawar**  
+Aspiring Data Analyst  
+
+📧 Email: shivamp6159@gmail.com  
+🔗 GitHub: https://github.com/shivamp6159  
+🔗 LinkedIn: https://www.linkedin.com/in/shivam-pawar-9463523a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+## ⭐ Feedback & Support
+If you find this project useful:
+- ⭐ Star this repository
+- 🍴 Fork it
+- 💬 Share feedback or suggestions
+
+Your feedback helps me grow as a Data Analyst 🚀
+
